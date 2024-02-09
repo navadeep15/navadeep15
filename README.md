@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Navadeep
-- 👀 I’m interested in web development, AI ML
-- 🌱 I’m currently learning node js
+- 👀 I’m interested in problem solving, web development, AI ML
+- 🌱 I’m currently learning web technologies
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me navadeepchv@gmail.com
 - 😄 Pronouns: He/Him
