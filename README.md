@@ -1,6 +1,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=navadeep15&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=lokeshleela04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 # 💫 About Me:
 👋 Hi, I’m Navadeep<br>👀 I’m interested in problem solving, web development, AI ML<br>🌱 I’m currently learning web technologies<br>📫 How to reach me navadeepchv@gmail.com<br>😄 Pronouns: He/Him
 
